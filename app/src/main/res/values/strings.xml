@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Nevigation</string>
+    <string name="app_name">Navigation</string>
+    <string name="account">Account</string>
+    <string name="other">Other</string>
+    <string name="settings">Settings</string>
+    <string name="about_us">About Us</string>
+    <string name="log_out">Log Out</string>
+    <string name="navigation_drawer">Navigation Drawer</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
 </resources>
